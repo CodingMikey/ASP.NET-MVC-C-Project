@@ -9,5 +9,8 @@ This software will be used to manage a collection of construction jobs. Admins w
 ### Changed date input from a textbox to a datetime
 This story was to fix an issue the main create view for the Company News uses a date picker for the expiration date, but the pop-up linked on the dashboard and the edit view do not have a date picker. I had to make the expiration date field for these views a date picker.
 
-## Openlayer Maps API
+## Google Maps API
 * [DateTime](#button-sizing-bug)
+
+### My task is to create a marker on the jobs address
+This story was to place a marker on the map of the job address
