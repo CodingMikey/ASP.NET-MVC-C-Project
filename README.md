@@ -1,4 +1,4 @@
-# Live Project using ASP.NET MVC 
+# Live Project using ASP.NET MVC https://www.erectorsinc.com
 ASP.NET MVC C# Project W/ code first Entity Framework Database. The UI is bootstrap 3.
 This software will be used to manage a collection of construction jobs. Admins will be able to create and distribute a weekly schedule assigning users to certain jobs. Users will be able to keep track of which job they are assigned to for the week. There will also be the ability for admins to post company news and announcements, and chat functionality for the users to socialize.
 
