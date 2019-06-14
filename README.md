@@ -6,7 +6,7 @@ This software will be used to manage a collection of construction jobs. Admins w
 ## Google Maps & Geocode API
 
 ### My task was to create a dynamic marker on a map with the current job sites address
-This story was to place a marker on the map of the job sites address. I had to make it dynamic so the marker would change as the job sites address changed. I researched Google Map API and then found out I also needed to use a Geocode API. The Geocode API would take a jobs address then return map coordinates in JSON format. I used those coordinates to
+This story was to place a marker on the map of the job sites address. I had to make it dynamic so the marker would change as the job sites address changed. I researched Google Map API and then found out I also needed to use a Geocode API. The Geocode API would take a jobs address then return map coordinates in JSON format. I used Razor Syntax to insert "@Model.StreetAddress" into the Google Maps API which would get the job sites address from the "Details" page from the "Views" folder. At first I couldn't figure out how to get this to work but after researching some examples that Google provided I was able to figure it out by taking apart the example they provided.
 
 
 
