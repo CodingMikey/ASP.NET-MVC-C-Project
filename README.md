@@ -8,7 +8,7 @@ This software will be used to manage a collection of construction jobs. Admins w
 ### My task was to create a dynamic marker on a map with the current job sites address
 This story was to place a marker on the map of the job sites address. I had to make it dynamic so the marker would change as the job sites address changed. I researched Google Map API and then found out I also needed to use a Geocode API. The Geocode API would take a jobs address then return map coordinates in JSON format. I used those coordinates to
 
-<script>
+
 
 
     // The below code generates the JSON 
@@ -40,8 +40,6 @@ This story was to place a marker on the map of the job sites address. I had to m
         });
     }
     
-
-</script>
 
 
 <img src="https://github.com/CodingMikey/LiveProject/blob/master/Screenshot%20(34).png" title="" alt="">
