@@ -47,3 +47,6 @@ This story was to place a marker on the map of the job sites address. I had to m
 
 ### Changed date input from a textbox to a datetime
 This story was to fix an issue the main create view for the Company News uses a date picker for the expiration date, but the pop-up linked on the dashboard and the edit view do not have a date picker. I had to make the expiration date field for these views a date picker.
+
+<img src="https://github.com/CodingMikey/LiveProject/blob/master/Screenshot%20(36).png" title="" alt="">
+
