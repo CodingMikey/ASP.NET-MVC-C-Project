@@ -12,7 +12,7 @@ This story was to place a marker on the map of the job sites address. I had to m
 
 
     // The below code generates the JSON 
-    // var locator = String.Format("https://maps.googleapis.com/maps/api/geocode/json?address={0}&key=AIzaSyCz3vFGdOrnD0oveurROUfzVSBQ6sLXoP4", shortAddress);
+    // var locator = String.Format("https://maps.googleapis.com/maps/api/geocode/json?address={0}&key=enterAPIkey", shortAddress);
 
     function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
